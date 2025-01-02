@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "name": "banana",
+    "description": "Fresh, sweet, and ripe bananas, perfect for a healthy snack or addition to your smoothies.",
+    "price": 3.99,
+    "imageUrl": "https://media.istockphoto.com/id/509533014/photo/raw-organic-bunch-of-bananas.jpg?s=1024x1024&w=is&k=20&c=29rTtjTMMwrHp9OxXVgmUM7LRj2Bn8Fcs3_OIlJKiaY="
+  },
+  {
+    "id": "1",
+    "name": "grapes",
+    "description": "Juicy and sweet grapes, perfect for snacking, salads, or adding a burst of flavor to your meals.",
+    "price": 2.99,
+    "imageUrl": "https://media.istockphoto.com/id/183217648/photo/bunch-of-different-types-of-fresh-grapes.jpg?s=1024x1024&w=is&k=20&c=oXuGvji2fhBAMIR_Zhket6sQyHXBbNPZHMISQnqEhOU="
+  },
+  {
+    "id": "2",
+    "name": "bread",
+    "description": "Soft and fresh bread, perfect for making sandwiches, toast, or enjoying with butter and jam.",
+    "price": 1.99,
+    "imageUrl": "https://media.istockphoto.com/id/182732282/photo/sliced-loaf-of-multi-grain-oat-bread.jpg?s=1024x1024&w=is&k=20&c=AvBhA6lY270c4ck3wQFyOu-syR4fQa6dRfp-BbKtx68="
+  },
+  {
+    "id": "3",
+    "name": "brown eggs",
+    "description": "Organic brown eggs, rich in flavor and nutrients, perfect for a wholesome breakfast or baking.",
+    "price": 0.99,
+    "imageUrl": "https://media.istockphoto.com/id/171206679/photo/egg-carton-isolated-clipping-path.jpg?s=1024x1024&w=is&k=20&c=TSgYTMd1zsXK9yaRANspzGBcTDce4EgaAMEjFqbDuqs="
+  }
+]
